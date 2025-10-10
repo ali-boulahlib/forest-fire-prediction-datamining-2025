@@ -1,0 +1,2 @@
+# forest-fire-prediction-datamining-2025
+In this project, we aim to develop a data-driven predictive model that uses soil characteristics (such as moisture, organic content, and texture) and climate data (temperature, humidity, rainfall, wind speed, etc.) to forecast the likelihood of forest fires. By applying data mining and machine learning techniques, we will explore patterns and relationships between environmental variables and fire events. The insights generated could support the design of early warning systems and fire prevention plans.
