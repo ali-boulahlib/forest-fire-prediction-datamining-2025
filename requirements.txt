@@ -1,0 +1,6 @@
+pandas
+geopandas
+rasterio
+matplotlib
+rioxarray
+pyodbc
