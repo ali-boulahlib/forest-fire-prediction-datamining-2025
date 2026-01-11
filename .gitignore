@@ -1,11 +1,9 @@
 
 # ignore the data folder
 data/raw/
+data/
 data/processed/Climate
 data/processed/Elevation
 data/processed/Land Cover
 data/processed/Soil
-notebooks/test.ipynb
 
-notebooks/from scratch
-notebooks/unsup
