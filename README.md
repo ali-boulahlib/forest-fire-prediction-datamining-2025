@@ -5,10 +5,11 @@ This project aims to develop a predictive model for forest fires in Algeria and 
 ## 📊 Steps
 1. **Data Analysis & Preprocessing**
    - Exploratory Data Analysis (EDA)
+   - Loading and Merging the datasets
    - Data cleaning, integration, and feature engineering
-2. **Supervised Learning**
+3. **Supervised Learning**
    - KNN, Decision Tree, and Random Forest (from scratch + Scikit-learn comparison)
-3. **Unsupervised Learning**
+4. **Unsupervised Learning**
    - K-Means, DBSCAN, and CLARANS (from scratch + Scikit-learn comparison)
 
 ## 📁 Dataset Sources
