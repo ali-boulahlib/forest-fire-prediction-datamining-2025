@@ -1,0 +1,4 @@
+cluster,size,fire_count,fire_rate,risk_level
+0,65690,0,0.0,Low
+1,24466,0,0.0,Low
+2,14216,14216,100.0,High
