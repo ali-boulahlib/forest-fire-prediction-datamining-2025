@@ -26,14 +26,14 @@ This project aims to develop a predictive model for forest fires in Algeria and 
 - geopandas, rasterio (for spatial raster processing)
 
 ## 📂 Repository structure
-```
-/README.md
-/data/              # raw and processed datasets (large files excluded from git so it contains only the final ready to use dataset)
-/notebooks/         # Jupyter notebooks for each step of the process (Loading, EDA, Merging, Preprocessing and feature engeneering, Modeling, Evaluation)
-/models/            # models for supervised and unsupervised (both from scratch and sklearn models)
-/results/           # csv files for the results of models
-/output/            # diffrent graphs and figures generated along the project
-```
+
+- /README.md
+- /data/              # raw and processed datasets (large files excluded from git so it contains only the final ready to use dataset)
+- /notebooks/         # Jupyter notebooks for each step of the process (Loading, EDA, Merging, Preprocessing and feature engeneering, Modeling, Evaluation)
+- /models/            # models for supervised and unsupervised (both from scratch and sklearn models)
+- /results/           # csv files for the results of models
+- /output/            # diffrent graphs and figures generated along the project
+
 
 ---
 
