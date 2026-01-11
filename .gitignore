@@ -1,6 +1,10 @@
 
 # ignore the data folder
-data/
+data/raw/
+data/processed/Climate
+data/processed/Elevation
+data/processed/Land Cover
+data/processed/Soil
 notebooks/test.ipynb
 models/
 notebooks/from scratch
