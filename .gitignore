@@ -6,6 +6,6 @@ data/processed/Elevation
 data/processed/Land Cover
 data/processed/Soil
 notebooks/test.ipynb
-models/
+
 notebooks/from scratch
 notebooks/unsup
